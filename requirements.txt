@@ -1,4 +1,4 @@
-opencv-python==4.8.0.76
+opencv-python-headless==4.8.0.76
 numpy==1.26.0
 streamlit==1.29.0
 matplotlib==3.8.0
